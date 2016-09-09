@@ -1,5 +1,5 @@
-# projetos2
-//trabalho segundo semestre, turma 2015, professor: aldebaro
+# projetos2 - MATLAB
+//trabalho segundo semestre, turma 2015, professor: aldebaro Klautal
 controle = 0 %variavel de controle
 while controle == 0
     clear all
