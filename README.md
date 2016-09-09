@@ -13,6 +13,6 @@ while controle == 0
     for i=1:size(bboxes,1)
         rectangle('Position',bboxes(i,:),'LineWidth',2,'EdgeColor','y');
     end
- controle = 0
+controle = 0
 end
 
